@@ -34,3 +34,5 @@ view_tet
 view_tet_release
 
 /vc/.vs/quartetexe/v17
+*.obj
+/vc/x64/Debug
