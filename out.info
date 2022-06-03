@@ -1,0 +1,29 @@
+Tetrahedral Mesh Quality Information
+
+Mesh vertices: 4528
+Mesh tetrahedra: 18489
+
+Smallest volume:        4.4256e-05   |   Largest volume:         0.0024609
+Smallest aspect ratio:    1.4907   |   Largest aspect ratio:     8.5482
+Smallest dihedral:        13.976   |   Largest dihedral:          147.1
+
+Aspect ratio histogram:
+     0 - 1.5        :       3184   |        6 - 10         :         35
+   1.5 - 2          :       9283   |       10 - 15         :          0
+     2 - 2.5        :       1095   |       15 - 25         :          0
+   2.5 - 3          :       1288   |       25 - 50         :          0
+     3 - 4          :       2166   |       50 - 100        :          0
+     4 - 6          :       1438   |      100 - 3.4028e+38 :          0
+(Aspect ratio is longest edge divided by shortest altitude)
+
+Dihedral angle histogram:
+     0 -   5 degrees:          0   |       80 - 110 degrees:      11418
+     5 -  10 degrees:          0   |      110 - 120 degrees:       1412
+    10 -  20 degrees:         80   |      120 - 130 degrees:        617
+    20 -  30 degrees:       2486   |      130 - 140 degrees:         80
+    30 -  40 degrees:       1758   |      140 - 150 degrees:         14
+    40 -  50 degrees:       2654   |      150 - 160 degrees:          0
+    50 -  60 degrees:      12516   |      160 - 170 degrees:          0
+    60 -  70 degrees:      26167   |      170 - 175 degrees:          0
+    70 -  80 degrees:      51732   |      175 - 180 degrees:          0
+
